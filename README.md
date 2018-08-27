@@ -1,3 +1,3 @@
 # GitPlay
 ## Taylor Phillips
-My GitHUb Repo. ( ^.^ )/
+My First GitHub Repo. ( ^.^ )/
